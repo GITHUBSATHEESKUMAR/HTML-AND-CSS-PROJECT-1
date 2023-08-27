@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    margin-left: 10px;
+    
+}
+.header{
+    display: flex;
+    background-color: lightcyan;
+    position: sticky;
+    top: 0%;
+    
+}
+
+.one{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    margin-left: 60%;
+    padding: 5px;
+}
+
+.headerpic{
+float: right;
+margin-right: 40px;
+margin-top: -20;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 30px;
+}
+.color{
+    color: light black;
+}
+
+.header2{
+    margin-left: 0px;
+    padding:20px;
+
+    
+    background-color: lightcyan;
+}
+
+.top{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.overall{
+    background-color: white;
+}
+.box{
+    border: solid  black 2px;
+    width: 250px;
+    height: 180px;
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightcyan;
+}
+.flower1{
+    margin-top: -20px;
+}
+.flower2{
+    margin-top: 20px;
+}
+.flower3{
+    margin-top: -20px;
+}
+.center{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+.pockay1{
+    text-align: center;
+}
+.pockay1.hover
+
+h3{
+    margin-left: 5%;
+}
+.final{
+    float: left;
+    left: 20px;
+}
+.end{
+    margin-left: 30%;
+    margin-top: 30px;
+}
+.final{
+    margin-top: -20px;
+    background-color: lightcyan;
+
+}
+
+.finish{
+    
+    background-color: lightcyan;
+    height: 300px;
+}
+
+.emptybox{
+    border: solid black 2px;
+    margin-left: 500px;
+    width: 1000px;
+    height: 25px;
+}
+
+.tailend{
+    text-align: center;
+}
+
+.emptybox{
+    margin-left: 200px;
+}
+.tailbutton{
+    padding: 10px;
+    text-align: center;
+}
+
+.report{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.icons{
+    display: flex;
+    margin-left: 20px;}
+
+i{width: 50px;}
+
+.done{margin-left: 20px;}
+
+.sathish{
+    background-color: lightcyan;
+}
